@@ -1,10 +1,18 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      SISNANDO FELIPE · PROFILE                   -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 ![Sisnando Felipe](https://sysfel-images.s3.us-east-1.amazonaws.com/github-header-img3.png)
 
 <div align="center">
 
 # 👋 Hi, I'm Sisnando Felipe
 
-**Senior Software Engineer · 10+ years designing and delivering large-scale software**
+**Senior Software Engineer · AI Engineering · 10+ years building large-scale software**
+
+<a href="https://github.com/Sysnando"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=10%2B+years+building+large-scale+software;AI+Engineering+%7C+Agent+Orchestration;Local+agents+%26+company-wide+AI+skills;Java+%7C+Spring+%7C+AWS+%7C+Angular+%7C+Kotlin" alt="Typing intro" /></a>
+
+<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=sysnando&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -16,44 +24,69 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 Computer Science graduate with over **10 years of experience** across national and multinational companies. I design and deliver large-scale web and standalone software — from architecture through implementation.
 
-Results-oriented, resourceful, and a strong problem solver, I focus on clean design, engineering best practices, and driving solutions that scale. I stay closely involved in advancing the craft and holding teams to a high standard.
-
-## What I'm Doing
+Results-oriented, resourceful, and a strong problem solver, I focus on clean design, engineering best practices, and solutions that scale. Today I'm channeling that experience into **AI engineering** — building and orchestrating agentic systems that change how teams ship software.
 
 - 💼 **Currently:** Leading and building software for the taxi industry
 - 🌱 **Learning:** Android & Kotlin
-- 💬 **Ask me about:** Java, Spring, AWS, TypeScript, Angular, and software design
+- 💬 **Ask me about:** Java, Spring, AWS, TypeScript, Angular, software design, and AI agents
 - 📫 **Reach me:** [sysnando@gmail.com](mailto:sysnando@gmail.com)
 
-## Tech Stack
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="36" alt="Java" title="Java">&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="36" alt="Spring" title="Spring">&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" height="36" alt="Kotlin" title="Kotlin">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript">&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" height="36" alt="TypeScript" title="TypeScript">&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" height="36" alt="Angular" title="Angular">&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" title="AWS">&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" height="36" alt="PostgreSQL" title="PostgreSQL">&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL" title="MySQL">&nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" height="36" alt="Jenkins" title="Jenkins">&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" title="Firebase">
-</div>
+## 🤖 AI Engineering
 
-## GitHub Stats
+> Early adopter of agentic AI — I design, build, and scale AI systems that reshape how our teams deliver.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Local Agents</h3>
+      Design and run autonomous coding agents locally, wired directly into everyday development workflows.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Company-Wide Skills</h3>
+      Author reusable AI <em>skills</em> that are adopted globally across teams — standardizing how the org works with AI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎼 Agent Orchestration</h3>
+      Coordinate multi-agent workflows that decompose complex problems and solve them in parallel.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Token Efficiency</h3>
+      Engineer prompts, context, and pipelines to cut token consumption and drive down cost at scale.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚀 Early Adopter</h3>
+      Bring emerging AI tooling into production ahead of the curve — proving value fast and turning experiments into standards.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Sysnando&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sysnando&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="Top languages" />
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,js,ts,angular,aws,postgres,mysql,jenkins,firebase&perline=11)
+
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sysnando&theme=react&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sysnando&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&cache_seconds=1800" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sysnando&theme=react&layout=compact&langs_count=8&hide_border=true&card_width=400" alt="Top languages" />
 </div>
 
 ---
