@@ -82,12 +82,27 @@ Results-oriented, resourceful, and a strong problem solver, I focus on clean des
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sysnando&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&cache_seconds=1800" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sysnando&theme=react&layout=compact&langs_count=8&hide_border=true&card_width=400" alt="Top languages" />
+
+![Experience](https://img.shields.io/badge/Experience-10%2B_years-0e75b6?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI_Engineering-16324f?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Senior_Software_Engineer-0e75b6?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Taxi_Industry-16324f?style=for-the-badge)
+
 </div>
+
+| Area | Stack |
+| :--- | :--- |
+| **Backend** | Java · Spring · AWS |
+| **Frontend** | Angular · TypeScript |
+| **Mobile** | Kotlin / Android |
+| **Data** | PostgreSQL · MySQL |
+| **DevOps & Cloud** | Jenkins · Firebase · AWS |
+| **AI Engineering** | Local agents · Company-wide skills · Agent orchestration · Token optimization |
+
+<div align="center"><sub>📈 See live activity and contributions on <a href="https://github.com/Sysnando">my GitHub profile</a>.</sub></div>
 
 ---
 
